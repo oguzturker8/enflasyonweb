@@ -1,25 +1,51 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from "react";
+import "./App.css";
+import Home from "./screens/Home";
+import Login from "./screens/Login";
+import fire from "./helpers/firebase";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+export default function App() {
+  const [user, setUser] = useState("");
+  const [email, setEmail] = useState("");
+  const [pass, setPass] = useState("");
+
+  const handleLogin = () => {
+    fire
+      .auth()
+      .signInWithEmailAndPassword(email, pass)
+      .catch((err) => console.log(err));
+  };
+
+  const handleLogout = () => {
+    fire.auth().signOut();
+  };
+
+  const authListener = () => {
+    fire.auth().onAuthStateChanged((user) => {
+      if (user) {
+        setUser(user);
+      } else {
+        setUser("");
+      }
+    });
+  };
+
+  useEffect(() => {
+    authListener();
+  }, []);
+
+  if (user) {
+    return <Home handleLogout={handleLogout} />;
+  } else {
+    return (
+      <Login
+        email={email}
+        setEmail={setEmail}
+        pass={pass}
+        setPass={setPass}
+        setUser={setUser}
+        handleLogin={handleLogin}
+      />
+    );
+  }
 }
-
-export default App;

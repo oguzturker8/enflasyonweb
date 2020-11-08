@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Bandicoot, short-nosed",
+    "price": 79,
+    "image": "https://robohash.org/distinctioillumipsa.jpg?size=50x50&set=set1",
+    "category": "Car",
+    "inflation": [
+      {
+        "date": 1604659583,
+        "price": 45
+      },
+      {
+        "date": 1588756418,
+        "price": 22
+      },
+      {
+        "date": 1557134018,
+        "price": 623
+      },
+      {
+        "date": 1570353218,
+        "price": 42
+      },
+      {
+        "date": 1565428418,
+        "price": 89
+      },
+      {
+        "date": 1518254018,
+        "price": 11
+      }
+    ]
+  },
+  {
+    "name": "Meerkat, red",
+    "price": 14,
+    "image": "https://robohash.org/etestcum.bmp?size=50x50&set=set1",
+    "category": "Car",
+    "inflation": [
+      {
+        "date": 1520673218,
+        "price": 67
+      },
+      {
+        "date": 1552209218,
+        "price": 22
+      },
+      {
+        "date": 1523351618,
+        "price": 87
+      },
+      {
+        "date": 1523438018,
+        "price": 555
+      },
+      {
+        "date": 1554887618,
+        "price": 89
+      },
+      {
+        "date": 1523355218,
+        "price": 1451
+      }
+    ]
+  },
+  {
+    "name": "Asian openbill",
+    "price": 81,
+    "image": "https://robohash.org/utsuntenim.bmp?size=50x50&set=set1",
+    "category": "Food",
+    "inflation": [
+      {
+        "date": 1581758018,
+        "price": 87
+      },
+      {
+        "date": 1613380418,
+        "price": 97
+      },
+      {
+        "date": 1584263618,
+        "price": 222
+      },
+      {
+        "date": 1581844418,
+        "price": 55
+      },
+      {
+        "date": 1584350018,
+        "price": 89
+      },
+      {
+        "date": 1586942018,
+        "price": 454
+      }
+    ]
+  },
+  {
+    "name": "Colobus, magistrate black",
+    "price": 35,
+    "image": "https://robohash.org/inquicommodi.bmp?size=50x50&set=set1",
+    "category": "Food",
+    "inflation": [
+      {
+        "date": 1583399618,
+        "price": 4545
+      },
+      {
+        "date": 1583486018,
+        "price": 78
+      },
+      {
+        "date": 1586078018,
+        "price": 44
+      },
+      {
+        "date": 1554455618,
+        "price": 97
+      },
+      {
+        "date": 1583399618,
+        "price": 8839
+      },
+      {
+        "date": 1583403218,
+        "price": 7
+      }
+    ]
+  },
+  {
+    "name": "Marmot, hoary",
+    "price": 66,
+    "image": "https://robohash.org/similiqueimpediteum.png?size=50x50&set=set1",
+    "category": "Food",
+    "inflation": [
+      {
+        "date": 1568193218,
+        "price": 15
+      },
+      {
+        "date": 1570785218,
+        "price": 66
+      },
+      {
+        "date": 1599815618,
+        "price": 623
+      },
+      {
+        "date": 1568279618,
+        "price": 73
+      },
+      {
+        "date": 1568366018,
+        "price": 89
+      },
+      {
+        "date": 1570871618,
+        "price": 94
+      }
+    ]
+  },
+  {
+    "name": "Cat, european wild",
+    "price": 35,
+    "image": "https://robohash.org/quiquoofficia.bmp?size=50x50&set=set1",
+    "category": "Tech",
+    "inflation": [
+      {
+        "date": 1574846018,
+        "price": 26
+      },
+      {
+        "date": 1577438018,
+        "price": 84
+      },
+      {
+        "date": 1574932418,
+        "price": 623
+      },
+      {
+        "date": 1606468418,
+        "price": 42
+      },
+      {
+        "date": 1580116418,
+        "price": 828
+      },
+      {
+        "date": 1577524418,
+        "price": 66
+      }
+    ]
+  },
+  {
+    "name": "Bird, magnificent frigate",
+    "price": 52,
+    "image": "https://robohash.org/namrerumexercitationem.png?size=50x50&set=set1",
+    "category": "Goods",
+    "inflation": [
+      {
+        "date": 1550222018,
+        "price": 535
+      },
+      {
+        "date": 1552641218,
+        "price": 63
+      },
+      {
+        "date": 1550308418,
+        "price": 623
+      },
+      {
+        "date": 1581758018,
+        "price": 83
+      },
+      {
+        "date": 1584263618,
+        "price": 89
+      },
+      {
+        "date": 1581761618,
+        "price": 83
+      }
+    ]
+  },
+  {
+    "name": "Sheathbill, snowy",
+    "price": 86,
+    "image": "https://robohash.org/illumquotenetur.bmp?size=50x50&set=set1",
+    "category": "Tech",
+    "inflation": [
+      {
+        "date": 1574846018,
+        "price": 74
+      },
+      {
+        "date": 1577438018,
+        "price": 22
+      },
+      {
+        "date": 1606468418,
+        "price": 822
+      },
+      {
+        "date": 1574932418,
+        "price": 42
+      },
+      {
+        "date": 1580116418,
+        "price": 55
+      },
+      {
+        "date": 1577351618,
+        "price": 11
+      }
+    ]
+  },
+  {
+    "name": "African polecat",
+    "price": 39,
+    "image": "https://robohash.org/dolordelenitiearum.jpg?size=50x50&set=set1",
+    "category": "Tech",
+    "inflation": [
+      {
+        "date": 1554286418,
+        "price": 75
+      },
+      {
+        "date": 1551604418,
+        "price": 222
+      },
+      {
+        "date": 1556874818,
+        "price": 74
+      },
+      {
+        "date": 1585905218,
+        "price": 42
+      },
+      {
+        "date": 1554196418,
+        "price": 89
+      },
+      {
+        "date": 1522746818,
+        "price": 26
+      }
+    ]
+  },
+  {
+    "name": "European stork",
+    "price": 37,
+    "image": "https://robohash.org/molestiaesapientenihil.jpg?size=50x50&set=set1",
+    "category": "Tech",
+    "inflation": [
+      {
+        "date": 1560330818,
+        "price": 55
+      },
+      {
+        "date": 1562922818,
+        "price": 22
+      },
+      {
+        "date": 1557652418,
+        "price": 623
+      },
+      {
+        "date": 1528794818,
+        "price": 42
+      },
+      {
+        "date": 1591953218,
+        "price": 72
+      },
+      {
+        "date": 1560244418,
+        "price": 96
+      }
+    ]
+  },
+  {
+    "name": "European stork",
+    "price": 37,
+    "image": "https://robohash.org/molestiaesapientenihil.jpg?size=50x50&set=set1",
+    "category": "Food",
+    "inflation": [
+      {
+        "date": 1564996418,
+        "price": 29
+      },
+      {
+        "date": 1567674818,
+        "price": 454
+      },
+      {
+        "date": 1562318018,
+        "price": 66
+      },
+      {
+        "date": 1596618818,
+        "price": 94
+      },
+      {
+        "date": 1533460418,
+        "price": 89
+      },
+      {
+        "date": 1564910018,
+        "price": 738
+      }
+    ]
+  },
+  {
+    "name": "European stork",
+    "price": 37,
+    "image": "https://robohash.org/molestiaesapientenihil.jpg?size=50x50&set=set1",
+    "category": "Food",
+    "inflation": [
+      {
+        "date": 1571562818,
+        "price": 42
+      },
+      {
+        "date": 1574241218,
+        "price": 15
+      },
+      {
+        "date": 1568970818,
+        "price": 834
+      },
+      {
+        "date": 1540026818,
+        "price": 675
+      },
+      {
+        "date": 1603185218,
+        "price": 89
+      },
+      {
+        "date": 1571476418,
+        "price": 85
+      }
+    ]
+  },
+  {
+    "name": "European stork",
+    "price": 37,
+    "image": "https://robohash.org/molestiaesapientenihil.jpg?size=50x50&set=set1",
+    "category": "Goods",
+    "inflation": [
+      {
+        "date": 1609233218,
+        "price": 53
+      },
+      {
+        "date": 1546074818,
+        "price": 73
+      },
+      {
+        "date": 1577524418,
+        "price": 564
+      },
+      {
+        "date": 1580289218,
+        "price": 72
+      },
+      {
+        "date": 1575018818,
+        "price": 65
+      },
+      {
+        "date": 1577610818,
+        "price": 54
+      }
+    ]
+  },
+  {
+    "name": "European stork",
+    "price": 37,
+    "image": "https://robohash.org/molestiaesapientenihil.jpg?size=50x50&set=set1",
+    "category": "Goods",
+    "inflation": [
+      {
+        "date": 1579943618,
+        "price": 1267
+      },
+      {
+        "date": 1548407618,
+        "price": 63
+      },
+      {
+        "date": 1582622018,
+        "price": 623
+      },
+      {
+        "date": 1577265218,
+        "price": 74
+      },
+      {
+        "date": 1580116418,
+        "price": 53
+      },
+      {
+        "date": 1577351618,
+        "price": 73
+      }
+    ]
+  }
+]
