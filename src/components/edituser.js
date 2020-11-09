@@ -145,7 +145,7 @@ export default function EditUser({ rawData, setRawData }) {
       <div className="updateProduct">
         <h1>Update User</h1>
         <a
-          className="addText"
+          className="updateList"
           style={{ marginBottom: 10 }}
           onClick={() => {
             console.log("RAW DATA GOING TO WRITE ON FIRESTORE");

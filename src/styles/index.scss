@@ -1101,6 +1101,7 @@ body {
     width: 240px;
     height: 160px;
     border-radius: 12px;
+    margin-top: 20px;
   }
 
   //LOGIN SCREEN
@@ -1213,6 +1214,11 @@ body {
       text-transform: capitalize;
       color: #232015;
       font-weight: 600;
+
+      .dummy {
+        font-size: 14px;
+        font-weight: 600;
+      }
 
       .pass {
         -webkit-text-security: disc;
