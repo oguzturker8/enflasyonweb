@@ -1,6 +1,6 @@
 
-### `https://github.com/oguzturker8/enflasyonweb.git`
+### clone `https://github.com/oguzturker8/enflasyonweb.git`
 
-### `npm install`
+### add npm packages `npm install`
 
-### `npm start`
+### start `npm start`
