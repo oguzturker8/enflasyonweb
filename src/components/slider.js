@@ -20,14 +20,7 @@ export default function Slider() {
   ];
 
   return (
-    <div
-      style={{
-        width: 900,
-        borderRadius: 8,
-        overflow: "hidden",
-        zIndex: 5,
-      }}
-    >
+    <div className="slider">
       <Swiper
         pagination={{
           dynamicBullets: true,

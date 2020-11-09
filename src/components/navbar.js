@@ -27,14 +27,15 @@ export default function Navbar({
     <ul className="navbar">
       {bars.map((item, index) => {
         return (
-          <li key={index} onClick={() => handleNav(index)}>
+          <li
+            key={index}
+            onClick={() => handleNav(index)}
+            className={index === navIndex ? "navbarActive" : "navbarPassive"}
+          >
             <box-icon
               name={item}
               type={item.includes("user") ? "solid" : null}
               color="#000"
-              style={
-                index === navIndex ? borderRightActive : borderRightPassive
-              }
             />
           </li>
         );
@@ -42,15 +43,3 @@ export default function Navbar({
     </ul>
   );
 }
-
-const borderRightActive = {
-  width: 80,
-  height: 30,
-  borderRight: "4px solid #ffbe0b",
-};
-
-const borderRightPassive = {
-  width: 80,
-  height: 30,
-  borderRight: "4px solid transparent",
-};

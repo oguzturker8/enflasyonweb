@@ -98,7 +98,6 @@ export default function EditUser({ rawData, setRawData }) {
           </span>
           <input
             placeholder="Username"
-            style={{ width: "60%" }}
             type="text"
             value={item.username}
             onChange={(event) =>
@@ -107,7 +106,6 @@ export default function EditUser({ rawData, setRawData }) {
           />
           <input
             placeholder="E-Mail"
-            style={{ width: "60%" }}
             type="text"
             value={item.mail}
             onChange={(event) =>
@@ -115,8 +113,7 @@ export default function EditUser({ rawData, setRawData }) {
             }
           />
           <input
-            placeholder="Passoword"
-            style={{ width: "60%" }}
+            placeholder="Password"
             type="password"
             value={item.password}
             onChange={(event) =>

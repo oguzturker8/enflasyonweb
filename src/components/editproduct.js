@@ -119,7 +119,6 @@ export default function EditProduct({ productFilter, rawData, setRawData }) {
           </span>
           <input
             placeholder="Product Name"
-            style={{ width: "60%" }}
             value={item.name}
             onChange={(event) =>
               setItem((prev) => ({ ...prev, name: event.target.value }))
@@ -127,7 +126,6 @@ export default function EditProduct({ productFilter, rawData, setRawData }) {
           />
           <input
             placeholder="Price"
-            style={{ width: "60%" }}
             type="number"
             value={item.price}
             onChange={(event) =>
@@ -193,31 +191,13 @@ export default function EditProduct({ productFilter, rawData, setRawData }) {
                 size="48px"
               />
             </div>
-            <span
-              style={{
-                fontSize: 16,
-                marginLeft: 20,
-                fontWeight: 600,
-              }}
-            >
-              Inflation
-            </span>
+            <span className="inflationText">Inflation</span>
           </div>
 
           {item.inflation.map((_, index) => {
             if (!_) return;
             return (
-              <div
-                style={{
-                  display: "flex",
-                  alignItems: "center",
-                  justifyContent: "space-evenly",
-                  backgroundColor: "#fafafa",
-                  alignSelf: "flex-start",
-                  padding: "5px 10px",
-                  marginTop: 10,
-                }}
-              >
+              <div className="inflationContainer">
                 <input
                   placeholder="Price"
                   type="number"
@@ -252,10 +232,9 @@ export default function EditProduct({ productFilter, rawData, setRawData }) {
         </div>
       </div>
       <div className="updateProduct">
-        <h1>Update Product</h1>
+        <h1 className="title">Update Product</h1>
         <a
-          className="addText"
-          style={{ marginBottom: 10 }}
+          className="updateList"
           onClick={() => {
             console.log("RAW DATA GOING TO WRITE ON FIRESTORE");
           }}

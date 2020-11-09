@@ -1,201 +1,201 @@
 [
   {
-    "name": "Bandicoot, short-nosed",
-    "price": 79,
-    "image": "https://robohash.org/distinctioillumipsa.jpg?size=50x50&set=set1",
-    "category": "Car",
+    "name": "Iphone 12",
+    "price": 1000,
+    "image": "https://shiftdelete.net/wp-content/uploads/2020/10/iphone-12-modelleri-icin-ilginc-satis-tahmini-1.jpg",
+    "category": "Tech",
     "inflation": [
       {
         "date": 1604659583,
-        "price": 45
+        "price": 734
       },
       {
         "date": 1588756418,
-        "price": 22
+        "price": 803
       },
       {
         "date": 1557134018,
-        "price": 623
+        "price": 714
       },
       {
         "date": 1570353218,
-        "price": 42
+        "price": 899
       },
       {
         "date": 1565428418,
-        "price": 89
+        "price": 1020
       },
       {
         "date": 1518254018,
-        "price": 11
+        "price": 1200
       }
     ]
   },
   {
-    "name": "Meerkat, red",
-    "price": 14,
-    "image": "https://robohash.org/etestcum.bmp?size=50x50&set=set1",
-    "category": "Car",
+    "name": "Pizza",
+    "price": 12,
+    "image": "https://www.droetker.com.tr/Recipe/Recipes/droetker.com.tr/tr-tr/baking/image-thumb__25774__RecipeDetailsLightBox/hizli-mayali-pizza.jpg",
+    "category": "Food",
     "inflation": [
       {
         "date": 1520673218,
-        "price": 67
+        "price": 11
       },
       {
         "date": 1552209218,
-        "price": 22
+        "price": 10
       },
       {
         "date": 1523351618,
-        "price": 87
+        "price": 12
       },
       {
         "date": 1523438018,
-        "price": 555
+        "price": 13
       },
       {
         "date": 1554887618,
-        "price": 89
+        "price": 13
       },
       {
         "date": 1523355218,
-        "price": 1451
+        "price": 8
       }
     ]
   },
   {
-    "name": "Asian openbill",
-    "price": 81,
-    "image": "https://robohash.org/utsuntenim.bmp?size=50x50&set=set1",
+    "name": "Hreat American Hamburger",
+    "price": 24,
+    "image": "https://barbecuebible.com/wp-content/uploads/2013/05/featured-great-american-hamburger-1024x640.jpg",
     "category": "Food",
     "inflation": [
       {
         "date": 1581758018,
-        "price": 87
+        "price": 23
       },
       {
         "date": 1613380418,
-        "price": 97
+        "price": 22
       },
       {
         "date": 1584263618,
-        "price": 222
+        "price": 21
       },
       {
         "date": 1581844418,
-        "price": 55
+        "price": 20
       },
       {
         "date": 1584350018,
-        "price": 89
+        "price": 20
       },
       {
         "date": 1586942018,
-        "price": 454
+        "price": 26
       }
     ]
   },
   {
-    "name": "Colobus, magistrate black",
-    "price": 35,
-    "image": "https://robohash.org/inquicommodi.bmp?size=50x50&set=set1",
-    "category": "Food",
-    "inflation": [
-      {
-        "date": 1583399618,
-        "price": 4545
-      },
-      {
-        "date": 1583486018,
-        "price": 78
-      },
-      {
-        "date": 1586078018,
-        "price": 44
-      },
-      {
-        "date": 1554455618,
-        "price": 97
-      },
-      {
-        "date": 1583399618,
-        "price": 8839
-      },
-      {
-        "date": 1583403218,
-        "price": 7
-      }
-    ]
-  },
-  {
-    "name": "Marmot, hoary",
-    "price": 66,
-    "image": "https://robohash.org/similiqueimpediteum.png?size=50x50&set=set1",
-    "category": "Food",
-    "inflation": [
-      {
-        "date": 1568193218,
-        "price": 15
-      },
-      {
-        "date": 1570785218,
-        "price": 66
-      },
-      {
-        "date": 1599815618,
-        "price": 623
-      },
-      {
-        "date": 1568279618,
-        "price": 73
-      },
-      {
-        "date": 1568366018,
-        "price": 89
-      },
-      {
-        "date": 1570871618,
-        "price": 94
-      }
-    ]
-  },
-  {
-    "name": "Cat, european wild",
-    "price": 35,
-    "image": "https://robohash.org/quiquoofficia.bmp?size=50x50&set=set1",
+    "name": "Samsung 49N5300 49’’",
+    "price": 2200,
+    "image": "https://m.media-amazon.com/images/I/81Qis0axdAL.jpg",
     "category": "Tech",
     "inflation": [
       {
-        "date": 1574846018,
-        "price": 26
+        "date": 1583399618,
+        "price": 2180
       },
       {
-        "date": 1577438018,
-        "price": 84
+        "date": 1583486018,
+        "price": 2170
       },
       {
-        "date": 1574932418,
-        "price": 623
+        "date": 1586078018,
+        "price": 2000
       },
       {
-        "date": 1606468418,
-        "price": 42
+        "date": 1554455618,
+        "price": 1400
       },
       {
-        "date": 1580116418,
-        "price": 828
+        "date": 1583399618,
+        "price": 2600
       },
       {
-        "date": 1577524418,
-        "price": 66
+        "date": 1583403218,
+        "price": 2000
       }
     ]
   },
   {
-    "name": "Bird, magnificent frigate",
-    "price": 52,
-    "image": "https://robohash.org/namrerumexercitationem.png?size=50x50&set=set1",
+    "name": "Tesla Model S",
+    "price": 100000,
+    "image": "https://carsguide-res.cloudinary.com/image/upload/f_auto%2Cfl_lossy%2Cq_auto%2Ct_default/v1/editorial/2017-Tesla-Model-S-P100D-white-sedan-Max-Klamus-1001x565-%281%29_1_0.jpg",
+    "category": "Car",
+    "inflation": [
+      {
+        "date": 1568193218,
+        "price": 98000
+      },
+      {
+        "date": 1570785218,
+        "price": 96000
+      },
+      {
+        "date": 1599815618,
+        "price": 95555
+      },
+      {
+        "date": 1568279618,
+        "price": 99900
+      },
+      {
+        "date": 1568366018,
+        "price": 120000
+      },
+      {
+        "date": 1570871618,
+        "price": 87000
+      }
+    ]
+  },
+  {
+    "name": "Nike Air Max 270",
+    "price": 89,
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/skwgyqrbfzhu6uyeh0gg/air-max-270-shoe-8HhX8Z.jpg",
     "category": "Goods",
+    "inflation": [
+      {
+        "date": 1574846018,
+        "price": 85
+      },
+      {
+        "date": 1577438018,
+        "price": 82
+      },
+      {
+        "date": 1574932418,
+        "price": 80
+      },
+      {
+        "date": 1606468418,
+        "price": 88
+      },
+      {
+        "date": 1580116418,
+        "price": 94
+      },
+      {
+        "date": 1577524418,
+        "price": 76
+      }
+    ]
+  },
+  {
+    "name": "Apple Watch",
+    "price": 240,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/42-alu-silver-sport-white-nc-s3-1up_GEO_TR?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1594318635000",
+    "category": "Tech",
     "inflation": [
       {
         "date": 1550222018,
@@ -224,42 +224,42 @@
     ]
   },
   {
-    "name": "Sheathbill, snowy",
-    "price": 86,
-    "image": "https://robohash.org/illumquotenetur.bmp?size=50x50&set=set1",
+    "name": "Playstation 5",
+    "price": 499,
+    "image": "https://i4.hurimg.com/i/hurriyet/75/750x422/5f28f4430f2544174cc372e3.jpg",
     "category": "Tech",
     "inflation": [
       {
         "date": 1574846018,
-        "price": 74
+        "price": 480
       },
       {
         "date": 1577438018,
-        "price": 22
+        "price": 494
       },
       {
         "date": 1606468418,
-        "price": 822
+        "price": 476
       },
       {
         "date": 1574932418,
-        "price": 42
+        "price": 502
       },
       {
         "date": 1580116418,
-        "price": 55
+        "price": 500
       },
       {
         "date": 1577351618,
-        "price": 11
+        "price": 480
       }
     ]
   },
   {
-    "name": "African polecat",
+    "name": "Mercedes a180",
     "price": 39,
-    "image": "https://robohash.org/dolordelenitiearum.jpg?size=50x50&set=set1",
-    "category": "Tech",
+    "image": "https://ppricecms-prepricecms.azurewebsites.net/uploads/images/kompakt_a-serisi%402x.png",
+    "category": "Car",
     "inflation": [
       {
         "date": 1554286418,
@@ -288,18 +288,18 @@
     ]
   },
   {
-    "name": "European stork",
-    "price": 37,
-    "image": "https://robohash.org/molestiaesapientenihil.jpg?size=50x50&set=set1",
-    "category": "Tech",
+    "name": "Kebab",
+    "price": 321,
+    "image": "https://www.thespruceeats.com/thmb/Bt2jQh__1rewU79ncql8OkGY0VA=/2059x1544/smart/filters:no_upscale()/aIMG_0756fsq-5aebd1ddc0647100364ee63a.jpg",
+    "category": "Food",
     "inflation": [
       {
         "date": 1560330818,
-        "price": 55
+        "price": 212
       },
       {
         "date": 1562922818,
-        "price": 22
+        "price": 21
       },
       {
         "date": 1557652418,
@@ -307,7 +307,7 @@
       },
       {
         "date": 1528794818,
-        "price": 42
+        "price": 442
       },
       {
         "date": 1591953218,
@@ -320,9 +320,9 @@
     ]
   },
   {
-    "name": "European stork",
-    "price": 37,
-    "image": "https://robohash.org/molestiaesapientenihil.jpg?size=50x50&set=set1",
+    "name": "Tacos",
+    "price": 12,
+    "image": "https://cdn.yemek.com/mncrop/940/625/uploads/2015/02/etli-taco-tarifi.jpg",
     "category": "Food",
     "inflation": [
       {
@@ -352,10 +352,10 @@
     ]
   },
   {
-    "name": "European stork",
+    "name": "Monthblanc Sterling Silver Ring",
     "price": 37,
-    "image": "https://robohash.org/molestiaesapientenihil.jpg?size=50x50&set=set1",
-    "category": "Food",
+    "image": "https://www.rotapsaat.com/images/thumbs/0013206_montblanc-gumus-yuzuk-36180_606.jpeg",
+    "category": "Goods",
     "inflation": [
       {
         "date": 1571562818,
@@ -384,9 +384,9 @@
     ]
   },
   {
-    "name": "European stork",
+    "name": "Snake Table lamp",
     "price": 37,
-    "image": "https://robohash.org/molestiaesapientenihil.jpg?size=50x50&set=set1",
+    "image": "https://cb2.scene7.com/is/image/CB2/SnakeTableLampSHF19/?$web_zoom$&190430165808&wid=450&hei=450",
     "category": "Goods",
     "inflation": [
       {
@@ -416,10 +416,10 @@
     ]
   },
   {
-    "name": "European stork",
+    "name": "Tesla Model 3",
     "price": 37,
-    "image": "https://robohash.org/molestiaesapientenihil.jpg?size=50x50&set=set1",
-    "category": "Goods",
+    "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2019-tesla-model-3-101-1574807022.jpg?crop=0.745xw:0.610xh;0.0208xw,0.387xh&resize=1200:*",
+    "category": "Car",
     "inflation": [
       {
         "date": 1579943618,

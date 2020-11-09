@@ -14,7 +14,6 @@ export default function Login({ email, setEmail, pass, setPass, handleLogin }) {
       </p>
       <input
         type="text"
-        className="loginInput"
         placeholder="E-mail"
         value={email}
         onChange={(event) => {
@@ -23,7 +22,6 @@ export default function Login({ email, setEmail, pass, setPass, handleLogin }) {
       />
       <input
         type="password"
-        className="loginInput"
         placeholder="Password"
         style={{ margin: "20px 0 50px" }}
         value={pass}
